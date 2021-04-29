@@ -11,9 +11,9 @@
   location of the resource (if not logged in we
   save their IP address instead of uid)
 
----
+<br>
 
-**1.1 - Add Moderation to the Platform**:
+**1.1 - Add Moderation to the Platform**
 
 - Enable users to visit a resource posting and mark
   it as "valid", "invalid", or "out of stock".  
@@ -24,7 +24,8 @@
   we remove the posting and accordingly ban their
   account
 
----
+<br>
+
 
 **1.2 - Implement Profanity Filters, Spam Detection**:
 
@@ -35,7 +36,7 @@
 
 - Use Libraries to filter out profanity from any images that are inputed
 
----
+<br>
 
 **1.3 - Give badges and reputation**
 
@@ -45,7 +46,7 @@
 
 - To the user, the reputation should be disguised as a "badge", which is based on their reputation
 
----
+<br>
 
 **1.4 - Introduce Vendors**
 
@@ -53,7 +54,7 @@
 
 - Give them a verified badge if they are verified
 
----
+<br>
 
 **1.5 - Rank Postings by Popularity**:
 
@@ -62,7 +63,7 @@
   decrement the position of a resource posting when
   is searched for
 
----
+<br>
 
 **Misc**
 
@@ -70,4 +71,3 @@
 
 - Allow users to customize their profiles (Not a priority)
 
----
