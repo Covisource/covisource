@@ -26,7 +26,6 @@
 
 <br>
 
-
 **1.2 - Implement Profanity Filters, Spam Detection**:
 
 - Use the `bad-words` library on npm to detect  
@@ -35,6 +34,12 @@
 - Use various ML Libraries to detect spam
 
 - Use Libraries to filter out profanity from any images that are inputed
+
+<br>
+
+**1.3 - Add Hindi Translation**:
+
+- Allow users to choose between english or hindi
 
 <br>
 
@@ -65,9 +70,14 @@
 
 <br>
 
+**1.6 - Integrate with twitter**:
+
+- Filter twitter for covid hashtags like _\#sos_ and dedicate a section on the website to just those posts
+
+<br>
+
 **Misc**
 
 - Add the ability for users to upload images of the resource as well
 
 - Allow users to customize their profiles (Not a priority)
-
