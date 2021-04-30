@@ -26,6 +26,5 @@ The tweets from thousands of Indians on twitter, asking for oxygen, plasma, or r
     </a>
     <a href="https://github.com/samrath2007">
         <img src="https://avatars.githubusercontent.com/u/69572668?v=4" alt="" style="width: 50px; height: 50px; object-fit: contain; border-radius: 50%; margin-right: 15px;"></img> 
-    </a>
-     
+    </a>     
 </div>
