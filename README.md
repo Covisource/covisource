@@ -2,9 +2,13 @@
   <img src="https://github.com/Covisource/covisource/blob/master/assets/covisource.png?raw=true" alt="Covisource Logo" width="300" />
 </p>
 
+<br>
+
 ## **Welcome to CoviSource!**
 
 We strive to take a step forward in the combat of this disease, therefore, we came up with CoviSource, a community-based platform for citizens all over India to discover and share covid resources.
+
+<br>
 
 ## **Inspiration**
 
