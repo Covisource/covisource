@@ -74,7 +74,8 @@
 
 **1.7 - Integrate with twitter**:
 
-- Filter twitter for covid hashtags like _\#sos_ and dedicate a section on the website to just those posts
+- Filter twitter for covid hashtags like _\#sos_ and dedicate a section on the website to just those posts, so people that have certain resources can discover their target audience better
+- Start recommending tweets that mention certain resources along with the ones uploaded on covisource
 
 <br>
 
