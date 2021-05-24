@@ -61,7 +61,9 @@
 
 <br>
 
-**1.5 - Rank Postings by Popularity**:
+**1.5 - Implement ability for users to visualize resource locations better with maps integration**
+
+**1.6 - Rank Postings by Popularity**:
 
 - Use the data collected from the public remarks
   and the profanity filters to increment or
@@ -70,9 +72,10 @@
 
 <br>
 
-**1.6 - Integrate with twitter**:
+**1.7 - Integrate with twitter**:
 
-- Filter twitter for covid hashtags like _\#sos_ and dedicate a section on the website to just those posts
+- Filter twitter for covid hashtags like _\#sos_ and dedicate a section on the website to just those posts, so people that have certain resources can discover their target audience better
+- Start recommending tweets that mention certain resources along with the ones uploaded on covisource
 
 <br>
 
